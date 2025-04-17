@@ -129,7 +129,10 @@ export class AutotaskApi implements ICredentialType {
 					value: 'https://webservices19.autotask.net/atservicesrest',
 				},
 				{
-					name: 'WideData (Private)',
+					name: 'Spanish (Español)',
+					value: 'https://webservices12.autotask.net/atservicesrest',
+				},				{
+					name: 'Debug Proxy (Monitored API Calls)',
 					value: 'https://hddea2771ab7c4b4b0c3.proxy.beeceptor.com/atservicesrest',
 				},
 				{
